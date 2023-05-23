@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I was playing a little bit with SwiftUI, as a way for updating my knowledge about iOS development using this tool, and I had sketched a very simple app so I decided to implemented and make it open-source so other developers can contribute.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The reason behind QuickPersonalFinance is to have a tool that can calculate or estimate the financial balance of a person after a given period of time with any given sources of income and expenses and let the person tweak the timeframe and the values that led to that estimate so that person can really evaluate the benefits and disadvantages of any situation, from a new job opportunity to a new financial structure focused on savings.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This site was created using [Jekyll](https://jekyllrb.com/).
